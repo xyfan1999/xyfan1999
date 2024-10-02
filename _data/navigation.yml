@@ -9,10 +9,10 @@ main:
     url: /publications/
 
   - title: "Project"
-    url: /project/
+    url: /portfolio/
 
   - title: "Teaching Assistant"
-    url: /teachingassistant/    
+    url: /teaching/    
     
   - title: "CV"
     url: /cv/
